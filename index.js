@@ -69,32 +69,35 @@ function promptUser() {
 
 // function to write README file
 function generateReadMe(data) {
-    return `
-    # ${data.Title}
-    ## Table of Contents
-    * [Description](#description)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Contributors](#contributors)
-    * [Test](#test)
-    * [License](#license)
-    * [Questions](#questions)
-    ## Description
-    ${data.Description}
-    ## Installation 
-    ${data.Installation}
-    ## Usage 
-    ${data.Usage}
-    ## Contributors
-    ${data.Contributors}
-    ## Test
-    ${data.Test}
-    ## License
-    ${data.License}
-    ## Questions
-    Contact Information:
-    Github:${data.Username}
-    Email:${data.Email}`;
+    return `---
+# ${data.Title}
+---
+## Table of Contents
+* [Description](#Description)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Contributors](#Contributors)
+* [Test](#Test)
+* [License](#License)
+* [Questions](#Questions)
+---
+## Description
+${data.Description}
+## Installation 
+${data.Install}
+## Usage 
+${data.Usage}
+## Contributors
+${data.Contributors}
+## Test
+${data.Test}
+## License
+${data.License}
+## Questions
+Contact Information:
+Github:${data.Username}
+Email:${data.Email}
+---`;
 }
 
 // function to initialize program
