@@ -71,7 +71,6 @@ function promptUser() {
 function generateReadMe(data) {
     return `
     # ${data.Title}
-
     ## Table of Contents
     * [Description](#description)
     * [Installation](#installation)
@@ -80,31 +79,22 @@ function generateReadMe(data) {
     * [Test](#test)
     * [License](#license)
     * [Questions](#questions)
-    
-
-
     ## Description
     ${data.Description}
-
     ## Installation 
     ${data.Installation}
-
     ## Usage 
     ${data.Usage}
-
     ## Contributors
     ${data.Contributors}
-
     ## Test
     ${data.Test}
-
     ## License
     ${data.License}
-
     ## Questions
-    Contact me:
-    Github:[${data.Username}](https://github.com/DiLiubarets)
-    Email:[${data.Email}](https://github.com/DiLiubarets)`;
+    Contact Information:
+    Github:${data.Username}
+    Email:${data.Email}`;
 }
 
 // function to initialize program

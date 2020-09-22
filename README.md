@@ -1,6 +1,5 @@
 
-    # Kushubh
-
+    # Purity Hub
     ## Table of Contents
     * [Description](#description)
     * [Installation](#installation)
@@ -9,28 +8,19 @@
     * [Test](#test)
     * [License](#license)
     * [Questions](#questions)
-    
-
-
     ## Description
-    we are in love
-
+    Website for selling milk
     ## Installation 
     undefined
-
     ## Usage 
-    give love
-
+    just login and set up account
     ## Contributors
-    kush, shubhi
-
+    shubhi, kush
     ## Test
-    give a kiss
-
+    jest
     ## License
     MIT
-
     ## Questions
-    Contact me:
-    Github:[shubhangim](https://github.com/DiLiubarets)
-    Email:[shubhimundhada@gmail.com](https://github.com/DiLiubarets)
+    Contact Information:
+    Github:smundhada
+    Email:shubhimundhada@gmail.com
