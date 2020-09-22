@@ -1,5 +1,6 @@
-
-# undefined
+---
+# Purity Hub
+---
 ## Table of Contents
 * [Description](#Description)
 * [Installation](#Installation)
@@ -10,18 +11,19 @@
 * [Questions](#Questions)
 ---
 ## Description
-hey 
+Website for selling milk
 ## Installation 
-undefined
+node
 ## Usage 
-hey
+just need to create a good readme
 ## Contributors
-hey
+kush and shubhi
 ## Test
-hye
+jest
 ## License
 MIT
 ## Questions
 Contact Information:
 Github:smundhada
-Email:shubhimundhada
+Email:shubhimundhada@gmail.com
+---
