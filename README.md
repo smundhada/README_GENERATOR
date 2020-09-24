@@ -16,15 +16,15 @@
 
 ## Description
 ---
-The user will be asked few question about there project and a readme file will be generated
+This project is made so that user will be asked few question about their development and a readme file will be generated based on the answers inputted. 
 
 ## Installation 
 ---
-npm install node 
+npm install node when you download the file, this way all the required packages will be loaded into your project to be used. 
 
 ## Usage 
 ---
-just type in node index.js and answer quick question and a readme file will be generated. 
+In order to run the project just type in node index.js and answer quick question and a readme file will be generated. 
 
 ## Contributors
 ---
@@ -44,4 +44,3 @@ Github Link - https://github.com/smundhada
 Email - shubhimundhada@gmail.com
 
 ![alt text](projsreen.png)
-![alt text](Screen Recording 2020-09-22 at 11.29.20 PM.mov)
